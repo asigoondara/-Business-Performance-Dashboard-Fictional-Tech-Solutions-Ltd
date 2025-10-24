@@ -55,6 +55,5 @@ This dashboard is not just a visual report — it’s a strategic tool. It empow
 ---
 
 
-![Dashboard Preview](dashboard.png)
 
 
